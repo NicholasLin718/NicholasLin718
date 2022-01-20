@@ -8,7 +8,7 @@ I'm Nicholas, a first-year Software Engineering student from the University of W
 
 🔭 Check out my [personal website](https://nicholas-lin.com/) to learn more about me!
 
-📫 You can reach me at [**Linkedin**](https://www.linkedin.com/in/NicholasLin718/) or my [**n39lin@uwaterloo.ca**](mailto:n39lin@uwaterloo.ca subject=Hey%20I%20saw%20your%20GitHub%20and...)
+📫 You can reach me at [**Linkedin**](https://www.linkedin.com/in/NicholasLin718/) or my [**n39lin@uwaterloo.ca**](mailto:n39lin@uwaterloo.ca?subject=Hey%20I%20saw%20your%20GitHub%20and...)
 
 <!--
 **NicholasLin718/NicholasLin718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

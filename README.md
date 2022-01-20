@@ -4,7 +4,7 @@ I'm Nicholas, a first-year Software Engineering student from the University of W
 
 🏫 **Software Engineering** at the University of Waterloo
 
-⚡ In my free time, I enjoy playing Minecraft, badminton, and occasionally basketball (kind of an NBA stats nerd).
+⚡ In my free time, I enjoy playing Minecraft, badminton, and occasionally basketball (kind of an NBA stats nerd)
 
 🔭 Check out my [personal website](https://nicholas-lin.com/) to learn more about me!
 

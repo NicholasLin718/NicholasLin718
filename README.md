@@ -1,4 +1,4 @@
-# Howdy! 🤠 My name is Nicholas (he/him) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">
+# Howdy! 🤠 My name is Nicholas (he/him) 
 
 I'm Nicholas, a first-year Software Engineering student from the University of Waterloo. I've recently started trying out web/web app development, but I'm pretty much interested in learning and exploring anything related to software development at the moment 😄. You can check out some of my past projects below. Feel free to reach out if you have questions, or just want to chat!
 

@@ -12,7 +12,10 @@ I'm Nicholas, a second-year Software Engineering student from the University of 
 
 <details>
 <summary>See more...</summary>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NicholasLin718&show_icons=true&theme=tokyonight&locale=en" alt="NicholasLin718" /></p>
+
+  </br>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasLin718&layout=compact" alt="NicholasLin718 Languages" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=NicholasLin718&show_icons=true&theme=tokyonight&locale=en" alt="NicholasLin718 Stats" /></p>
 </details>
 
 

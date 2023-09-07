@@ -1,6 +1,6 @@
 # Howdy! 🤠 My name is Nicholas (he/him) 
 
-I'm Nicholas, a second-year Software Engineering student from the University of Waterloo. I've been exploring a lot of Full Stack, but I'm pretty much interested in learning and exploring anything related to software development at the moment 😄. You can check out some of my past projects below. Feel free to reach out if you have questions, or just want to chat!
+I'm Nicholas, a third-year Software Engineering student from the University of Waterloo. I've been exploring a lot of Full Stack, but I'm pretty much interested in learning and exploring anything related to software development at the moment 😄. You can check out some of my past projects below. Feel free to reach out if you have questions, or just want to chat!
 
 🏫 **Software Engineering** at the University of Waterloo
 
